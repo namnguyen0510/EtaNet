@@ -7,6 +7,7 @@ Quantifying the dynamics of tumor burden reveals useful information about cancer
 ## Model Capacity
 ![plot](./figures/model_capacity.png)
 ## Experiment History
+Bayesian inference of <img src="https://render.githubusercontent.com/render/math?math=\eta">-Net
 <img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/bayes_infer_top_5.gif" width="300"/>
 
 ## Experiment Results
