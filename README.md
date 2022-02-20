@@ -8,7 +8,7 @@ Tumor dynamics modeling is one of the most common model-informed drug developmen
 ![plot](./figures/EtaNet.png)
 ## Model Capacity
 ![plot](./figures/model_capacity.png)
-## Bayesian inference of <img src="https://render.githubusercontent.com/render/math?math=\eta">-Net
+## Bayesian inference of EtaNet
 <img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/bayes_infer_top_5.gif" width="800"/>
 
 ## Experiment Results
