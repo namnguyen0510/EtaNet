@@ -66,21 +66,3 @@ class Simulator():
             return simulators
         else:
             print("Not Implemented Simulator!")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-######
