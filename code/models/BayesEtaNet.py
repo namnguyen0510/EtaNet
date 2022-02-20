@@ -59,12 +59,6 @@ class fit():
 		# CAN UPDATE CONTINUOUS COLOUR SCALE FOR VISUALIZING HARDENING MODEL
 		self.ax.plot(t[:Th+1]/(self.spin), y[:Th+1], alpha = 0.3, linewidth = 0.7, color = 'blue')
 		self.ax.plot(t[Th:]/(self.spin), y[Th:], alpha = 0.3, linewidth = 0.7, color = 'green')
-		'''
-		for i in range(len(V_true)):
-			self.ax.scatter(self.t[:Th +1]/self.TMax, V_true[:Th+1], alpha = 0.2, s = 5, color = 'purple')
-			#self.ax.vlines(self.t[Th]/self.TMax, ymin=-1, ymax= 0., color='black', lw=0.2, ls ="--")
-			self.ax.scatter(self.t[Th:]/self.TMax, V_true[Th:], alpha = 0.2, s = 5, color = 'green')
-		'''
 		plt.savefig('{}/patient_infer.jpg'.format(self.study_name), dpi = 300)
 		print('Train Loss: {:4f}'.format(train_loss))
 		print('Test  Loss: {:4f}'.format(test_loss))
