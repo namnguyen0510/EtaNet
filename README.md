@@ -7,7 +7,8 @@ Quantifying the dynamics of tumor burden reveals useful information about cancer
 ## Model Capacity
 ![plot](./figures/model_capacity.png)
 ## Experiment History
-![Alt Text](https://github.com/namnguyen0510/EtaNet/blob/main/figures/bayes_infer_top_5.gif)
+<img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/bayes_infer_top_5.gif" width="300"/>
+
 ## Experiment Results
 ### Cohort-specific Modeling
 <a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/cohort_spec.png" align="left" height="800" ></a>
