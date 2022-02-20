@@ -26,7 +26,7 @@ Tumor dynamics modeling is one of the most common model-informed drug developmen
 [k = 8, l = 4](https://drive.google.com/drive/folders/15VEu1mq6MDH6ExGjQ_wEYMtCELZ8RMj_?usp=sharing)
 [k = 8, l = 6](https://drive.google.com/drive/folders/1XrJzalV-FDwbC1BBv3myX1cuomHRGDyj?usp=sharing)
 [k = 8, l = 8](https://drive.google.com/drive/folders/1BD504vnb_odGHR49xdtbvjP-jiQjDdUP?usp=sharing)
-## Some Arts (Color by Quantum (Red) - Classical (Blue) Weights)
+## Some Arts - Colored by Quantum (Red) - Classical (Blue) Weights and Rainbow Plots of <img src="https://render.githubusercontent.com/render/math?math=\eta">-Net
 <a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/arts/0_random_99_4_4.jpg" align="left" height="300" ></a>
 <a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/arts/1_random_99_4_4.jpg" align="left" height="300" ></a>
 <a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/arts/2_random_99_4_4.jpg" align="left" height="300" ></a>
