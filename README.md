@@ -10,9 +10,9 @@ Quantifying the dynamics of tumor burden reveals useful information about cancer
 
 ## Experiment Results
 ### Cohort-specific Modeling
-<a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/cohort_spec.png" align="left" height="300" ></a>
+<a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/cohort_spec.png" align="left" height="800" ></a>
 ### Patient-specific Modeling
-<a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/pat_spec.png" align="left" height="300" ></a>
+<a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/pat_spec.png" align="left" height="800" ></a>
 ## Some Illustrations
 <a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/arts/0_random_99_4_4.jpg" align="left" height="300" ></a>
 <a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/arts/1_random_99_4_4.jpg" align="left" height="300" ></a>
