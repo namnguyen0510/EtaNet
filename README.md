@@ -8,10 +8,10 @@ Implementations of EtaNet - a translational Quantum Machine Intelligence for Mod
 
 ## Some Illustrations
 <a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/arts/0_random_99_4_4.jpg" align="left" height="300" ></a>
-![plot](./figures/arts/0_random_99_4_4.jpg)
-![plot](./figures/arts/1_random_99_4_4.jpg)
-![plot](./figures/arts/2_random_99_4_4.jpg)
-![plot](./figures/arts/random_49_4_4.jpg)
+<a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/arts/1_random_99_4_4.jpg" align="left" height="300" ></a>
+<a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/arts/2_random_99_4_4.jpg" align="left" height="300" ></a>
+<a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/arts/random_49_4_4.jpg" align="left" height="300" ></a>
+
 ## Requirement
 ```
 python >= 3.6.12, pennylane == 0.13.0, multiprocessing == 2.6.2.1, optuna == 2.4.0, scipy == 1.5.4
