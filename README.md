@@ -1,5 +1,7 @@
 # EtaNet
 Implementations of EtaNet - a translational Quantum Machine Intelligence for Modeling Tumor Dynamics in Oncology. Pre-print: (Update Soon)
+## Abstract
+Quantifying the dynamics of tumor burden reveals useful information about cancer evolution concerning treatment effects and drug resistance, which play a crucial role in advancing model-informed drug developments (MIDD) towards personalized medicine and precision oncology. The emergence of Quantum Machine Intelligence offers unparalleled insights into tumor dynamics via a quantum mechanics perspective. This paper introduces a novel hybrid quantum-classical neural architecture named $\eta-$Net that enables quantifying quantum dynamics of tumor burden concerning treatment effects. We evaluate our proposed neural solution on two major use cases, including cohort-specific and patient-specific modeling. \textit{In silico} numerical results show a high capacity and expressivity of $\eta-$Net to the quantified biological problem. Moreover, the close connection to representation learning - the foundation for successes of modern AI, enables efficient transferability of empirical knowledge from relevant cohorts to targeted patients. Finally, we leverage Bayesian optimization to quantify the epistemic uncertainty of model predictions, paving the way for $\eta-$Net towards reliable AI in decision-making for clinical usages.
 ## Neural Architecture of EtaNet
 ![plot](./figures/EtaNet.png)
 ## Model Capacity
