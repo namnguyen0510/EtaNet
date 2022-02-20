@@ -6,9 +6,8 @@ Implementations of EtaNet - a translational Quantum Machine Intelligence for Mod
 ![plot](./figures/model_capacity.png)
 ## Experiment History
 
-## Some Illustration
-<img src="https://figures/arts/0_random_99_4_4.jpg" width="100" height="100">
-![plot](./figures/arts/0_random_99_4_4.jpg)[width = 300]
+## Some Illustrations
+![plot](./figures/arts/0_random_99_4_4.jpg)
 ![plot](./figures/arts/1_random_99_4_4.jpg)
 ![plot](./figures/arts/2_random_99_4_4.jpg)
 ![plot](./figures/arts/random_49_4_4.jpg)
