@@ -3,9 +3,6 @@ import pandas as pd
 from lib.models.math_model import *
 import matplotlib.pyplot as plt
 
-"""
-#Generate Data
-"""
 class Simulator():
     def __init__(self, model, study_name , growth_rate, death_rate, V0, VMax=None, decay=None, EMax=None, IC50=None, seed = None):
         super(Simulator, self).__init__()
