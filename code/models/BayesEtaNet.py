@@ -1,13 +1,13 @@
 import pennylane as qml
 from pennylane import numpy as np
 import torch
-from lib.models.primitives import *
+from models.primitives import *
 import matplotlib
 import matplotlib.pyplot as plt
 import tqdm as tqdm
 import pandas as pd
 import torch.nn as nn
-from lib.models.model import *
+from models.model import *
 import optuna
 from optuna.samplers import TPESampler
 import joblib
