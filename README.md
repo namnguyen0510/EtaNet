@@ -15,13 +15,13 @@ Tumor dynamics modeling is one of the most common model-informed drug developmen
 ## Experiment History
 [k = 4, l = 4](https://drive.google.com/drive/folders/1WmFoZk8th_rQBAJlnwNVdwdAFWbf0fEr?usp=sharing)|
 [k = 4, l = 6](https://drive.google.com/drive/folders/1VURc4iC0ZS3GsrQcjQMjVTR-5qf_Jt6f?usp=sharing)|
-[k = 4, l = 8](https://drive.google.com/drive/folders/1jxYqb5_ztVKrjgao4v2v6ml9tDUN9w2j?usp=sharing)
-[k = 6, l = 4](https://drive.google.com/drive/folders/1PYyzv5A72X_CDVpbi3f0ir5XFdsVgRnH?usp=sharing)
-[k = 6, l = 6](https://drive.google.com/drive/folders/1l1aMwTJ8Wd7VoG8wh3daBEkRkuwOUoN9?usp=sharing)
-[k = 6, l = 8](https://drive.google.com/drive/folders/1bkOcDuIn6EeqSs_aLzCNjmxqp1pv2koj?usp=sharing)
-[k = 8, l = 4](https://drive.google.com/drive/folders/15VEu1mq6MDH6ExGjQ_wEYMtCELZ8RMj_?usp=sharing)
-[k = 8, l = 6](https://drive.google.com/drive/folders/1XrJzalV-FDwbC1BBv3myX1cuomHRGDyj?usp=sharing)
-[k = 8, l = 8](https://drive.google.com/drive/folders/1BD504vnb_odGHR49xdtbvjP-jiQjDdUP?usp=sharing)
+[k = 4, l = 8](https://drive.google.com/drive/folders/1jxYqb5_ztVKrjgao4v2v6ml9tDUN9w2j?usp=sharing)|
+[k = 6, l = 4](https://drive.google.com/drive/folders/1PYyzv5A72X_CDVpbi3f0ir5XFdsVgRnH?usp=sharing)|
+[k = 6, l = 6](https://drive.google.com/drive/folders/1l1aMwTJ8Wd7VoG8wh3daBEkRkuwOUoN9?usp=sharing)|
+[k = 6, l = 8](https://drive.google.com/drive/folders/1bkOcDuIn6EeqSs_aLzCNjmxqp1pv2koj?usp=sharing)|
+[k = 8, l = 4](https://drive.google.com/drive/folders/15VEu1mq6MDH6ExGjQ_wEYMtCELZ8RMj_?usp=sharing)|
+[k = 8, l = 6](https://drive.google.com/drive/folders/1XrJzalV-FDwbC1BBv3myX1cuomHRGDyj?usp=sharing)|
+[k = 8, l = 8](https://drive.google.com/drive/folders/1BD504vnb_odGHR49xdtbvjP-jiQjDdUP?usp=sharing)|
 ## Some Arts - Colored by Quantum (Red) - Classical (Blue) Weights and Rainbow Plots of <img src="https://render.githubusercontent.com/render/math?math=\eta">-Net
 <a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/arts/0_random_99_4_4.jpg" align="left" height="200" ></a>
 <a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/arts/1_random_99_4_4.jpg" align="left" height="200" ></a>
