@@ -11,11 +11,7 @@ Tumor dynamics modeling is one of the most common model-informed drug developmen
 ## Bayesian inference of EtaNet
 <img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/bayes_infer_top_5.gif" width="800"/>
 
-## Experiment Results
-### Cohort-specific Modeling
-<a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/cohort_spec.png" align="left" height="800" ></a>
-### Patient-specific Modeling
-<a href="url"><img src="https://github.com/namnguyen0510/EtaNet/blob/main/figures/pat_spec.png" align="left" height="800" ></a>
+
 ## Experiment History
 [k = 4, l = 4](https://drive.google.com/drive/folders/1WmFoZk8th_rQBAJlnwNVdwdAFWbf0fEr?usp=sharing)
 [k = 4, l = 6](https://drive.google.com/drive/folders/1VURc4iC0ZS3GsrQcjQMjVTR-5qf_Jt6f?usp=sharing)
